@@ -11,6 +11,7 @@ int main(int argc, char const *argv[]) {
     LOG("Allocation failed");
   }
   else {
+
     ptr1.getPointerAddr();
     ptr1.getPointerValue();
   }
